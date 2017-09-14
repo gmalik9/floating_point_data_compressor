@@ -1,5 +1,5 @@
-# floating_point_data_compressor
-GIPA                                                                   GIPA   
+# GIPA - floating_point_data_compressor
+GIPA                                                                      
 
 NAME
 
@@ -119,4 +119,4 @@ BUGS
      (Warning) The data may get manipulated in the trailing decimal places
      to some extent only if it is not in a representable format.
 
-GIPA                             May 30, 2016                            GIPA
+GIPA                             May 30, 2016                            
